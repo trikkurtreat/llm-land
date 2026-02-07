@@ -1,5 +1,6 @@
 GPT2/gpt2/
 *.pth
+.DS_Store
 
 # Python virtual environment
 .venv/
@@ -9,3 +10,4 @@ ENV/
 # General Python junk
 __pycache__/
 *.py[cod]
+
