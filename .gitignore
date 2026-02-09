@@ -1,6 +1,14 @@
-GPT2/gpt2/
+# general
 *.pth
 .DS_Store
+
+# gpt2
+GPT2/gpt2/
+
+# llama2
+LLAMA2/Llama-2-7b/
+LLAMA2/Llama-2-7b-chat/
+config.json
 
 # Python virtual environment
 .venv/
